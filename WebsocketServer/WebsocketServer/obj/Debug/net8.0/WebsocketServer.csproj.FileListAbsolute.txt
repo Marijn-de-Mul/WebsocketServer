@@ -1,0 +1,15 @@
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\bin\Debug\net8.0\WebsocketServer.exe
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\bin\Debug\net8.0\WebsocketServer.deps.json
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\bin\Debug\net8.0\WebsocketServer.runtimeconfig.json
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\bin\Debug\net8.0\WebsocketServer.dll
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\bin\Debug\net8.0\WebsocketServer.pdb
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.AssemblyInfoInputs.cache
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.AssemblyInfo.cs
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.csproj.CoreCompileInputs.cache
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.sourcelink.json
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.dll
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\refint\WebsocketServer.dll
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.pdb
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\WebsocketServer.genruntimeconfig.cache
+E:\Personal\WebsocketServer\WebsocketServer\WebsocketServer\obj\Debug\net8.0\ref\WebsocketServer.dll
